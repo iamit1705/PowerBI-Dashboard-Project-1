@@ -1,5 +1,5 @@
 # PowerBI-Dashboard-Project-1
-Global supermarket sales report from 2012 to 2015
+Global superstore sales report from 2012 to 2015
 This is PowerBi dashboard for global superstore sales analysis from 2012 to 2015. 
 1- Total number of sales from 2012 to 2015
 2- Sales by region
